@@ -1,0 +1,12 @@
+buka cmd/powershell
+install python 3.6 keatas
+jangan lupa pasang path
+
+sesuaikan lokasi misal di downloads
+ketik = python get-pip.py
+tunggu sampai selesai
+
+lalu path pip masukan lokasi di python/script
+dan cek 
+pip --version
+kalau muncul maka sukses

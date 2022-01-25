@@ -1,0 +1,6 @@
+(Python)
+User Variables
+path : C:\Users\YourName\AppData\Local\Programs\Python\Python37\Scripts
+
+System variabel
+path : C:\Users\YourName\AppData\Local\Programs\Python\Python37

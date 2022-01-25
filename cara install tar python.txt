@@ -1,0 +1,7 @@
+sesuaikan dengan file formatnya
+ada .tar ada .tar.gz
+
+buka cmd via admin
+lalu ketik = python -m pip install ./downloads/namafile.tar
+
+sesuaikan dengan folder misal di document ./documents dan sebagainya
